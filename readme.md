@@ -140,12 +140,6 @@ Phase 3 — ecosystem growth:
 - Package security scoring based on attestation depth
 - Browser extension showing ChainLock status on npm/PyPI package pages
 
-### Who builds this
-
-This is a perfect 3C project or BSV hackathon entry. The MVP is scoped tightly enough for a focused build sprint. The `bsv-micropay-middleware` package you've already built handles the micropayment infrastructure. The SDK work is straightforward.
-
-And honestly? After the LiteLLM incident, the timing is perfect. The developer community is actively looking for answers right now. Showing up with a working prototype that uses BSV to solve a real, painful problem is the kind of thing that changes how people think about the chain.
-
 ---
 
 *Concept by Ruth Heasman / Ruth Designs Digital — March 2026*
